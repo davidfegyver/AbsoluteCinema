@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "AbsoluteCinemaBot"
           git config user.email "cinema@davidfegyver.hu"
-          git add data/latest.json data/history.jsonl data/presentations.json data/cinemas.json
+          git add data/cinemas.json data/presentations.json data/history.jsonl
           if git diff --cached --quiet; then
             echo "No data changes."
             exit 0
