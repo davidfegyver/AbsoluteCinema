@@ -29,7 +29,7 @@ jobs:
           MARKET_ID: "10102"
           UNTIL_DATE: "2027-01-01"
         run: |
-          python scripts/collect2.py
+          python scripts/collect.py
 
       - name: Commit snapshots
         run: |
