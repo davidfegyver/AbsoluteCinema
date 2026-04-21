@@ -8,14 +8,6 @@
         "name": "Szeged"
     },
     {
-        "id": "1127",
-        "name": "Debrecen"
-    },
-    {
-        "id": "1129",
-        "name": "Miskolc"
-    },
-    {
         "id": "1132",
         "name": "Arena - Budapest"
     },
@@ -24,23 +16,7 @@
         "name": "Allee - Budapest"
     },
     {
-        "id": "1136",
-        "name": "Sopron"
-    },
-    {
         "id": "1137",
         "name": "Westend - Budapest"
-    },
-    {
-        "id": "1139",
-        "name": "Campona - Budapest"
-    },
-    {
-        "id": "1141",
-        "name": "Duna Pl\u00e1za - Budapest"
-    },
-    {
-        "id": "1143",
-        "name": "Ny\u00edregyh\u00e1za"
     }
 ]
