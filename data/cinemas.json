@@ -1,9 +1,5 @@
 [
     {
-        "id": "1124",
-        "name": "Alba - Sz\u00e9kesfeh\u00e9rv\u00e1r"
-    },
-    {
         "id": "1125",
         "name": "Gy\u0151r"
     },
@@ -16,20 +12,8 @@
         "name": "Debrecen"
     },
     {
-        "id": "1128",
-        "name": "P\u00e9cs"
-    },
-    {
         "id": "1129",
         "name": "Miskolc"
-    },
-    {
-        "id": "1130",
-        "name": "Szolnok"
-    },
-    {
-        "id": "1131",
-        "name": "Balaton - Veszpr\u00e9m"
     },
     {
         "id": "1132",
@@ -38,14 +22,6 @@
     {
         "id": "1133",
         "name": "Allee - Budapest"
-    },
-    {
-        "id": "1134",
-        "name": "Savaria - Szombathely"
-    },
-    {
-        "id": "1135",
-        "name": "Zalaegerszeg"
     },
     {
         "id": "1136",
